@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # todo-list-app-firebase
-=======
+===========================
 # ✅ TodoBloc — Flutter To-Do App
 
 A robust, production-ready To-Do List app built with **Flutter**, **Firebase Authentication**, **Firebase Realtime Database**, and **BLoC** state management following clean architecture principles.
 
----
+
 
 ## 📱 Features
 
@@ -266,11 +266,4 @@ build/
 .flutter-plugins-dependencies
 ```
 
----
 
-## 👤 Author
-
-Built as a Flutter BLoC architecture showcase with Firebase integration.
-
-**Deadline:** 10/03/2026 before 7 PM ✅
->>>>>>> todo
