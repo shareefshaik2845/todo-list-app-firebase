@@ -266,11 +266,4 @@ build/
 .flutter-plugins-dependencies
 ```
 
----
 
-## 👤 Author
-
-Built as a Flutter BLoC architecture showcase with Firebase integration.
-
-**Deadline:** 10/03/2026 before 7 PM ✅
->>>>>>> todo
